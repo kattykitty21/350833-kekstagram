@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Кочеткова](https://up.htmlacademy.ru/javascript/16/user/350833).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Рыжаков`(https://htmlacademy.ru/profile/id201015).
 
 ---
 
